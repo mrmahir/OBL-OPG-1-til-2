@@ -1,0 +1,60 @@
+C:\Users\mahoe\OneDrive\Skrivebord\3. Semester OP 1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.deps.json
+C:\Users\mahoe\OneDrive\Skrivebord\3. Semester OP 1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.dll
+C:\Users\mahoe\OneDrive\Skrivebord\3. Semester OP 1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.pdb
+C:\Users\mahoe\OneDrive\Skrivebord\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.AssemblyReference.cache
+C:\Users\mahoe\OneDrive\Skrivebord\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahoe\OneDrive\Skrivebord\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\mahoe\OneDrive\Skrivebord\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfo.cs
+C:\Users\mahoe\OneDrive\Skrivebord\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mahoe\OneDrive\Skrivebord\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.dll
+C:\Users\mahoe\OneDrive\Skrivebord\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\refint\BookLibrary.dll
+C:\Users\mahoe\OneDrive\Skrivebord\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.pdb
+C:\Users\mahoe\OneDrive\Skrivebord\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\ref\BookLibrary.dll
+C:\Users\mahoe\OneDrive\Skrivebord\Software Konstruktion 3. Semester\3. Semester OP 1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.deps.json
+C:\Users\mahoe\OneDrive\Skrivebord\Software Konstruktion 3. Semester\3. Semester OP 1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.dll
+C:\Users\mahoe\OneDrive\Skrivebord\Software Konstruktion 3. Semester\3. Semester OP 1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.pdb
+C:\Users\mahoe\OneDrive\Skrivebord\Software Konstruktion 3. Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.AssemblyReference.cache
+C:\Users\mahoe\OneDrive\Skrivebord\Software Konstruktion 3. Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahoe\OneDrive\Skrivebord\Software Konstruktion 3. Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\mahoe\OneDrive\Skrivebord\Software Konstruktion 3. Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfo.cs
+C:\Users\mahoe\OneDrive\Skrivebord\Software Konstruktion 3. Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mahoe\OneDrive\Skrivebord\Software Konstruktion 3. Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.dll
+C:\Users\mahoe\OneDrive\Skrivebord\Software Konstruktion 3. Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\refint\BookLibrary.dll
+C:\Users\mahoe\OneDrive\Skrivebord\Software Konstruktion 3. Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.pdb
+C:\Users\mahoe\OneDrive\Skrivebord\Software Konstruktion 3. Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\ref\BookLibrary.dll
+C:\Users\mahoe\Desktop\3. Semester OP 1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.deps.json
+C:\Users\mahoe\Desktop\3. Semester OP 1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.dll
+C:\Users\mahoe\Desktop\3. Semester OP 1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.pdb
+C:\Users\mahoe\Desktop\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.AssemblyReference.cache
+C:\Users\mahoe\Desktop\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahoe\Desktop\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\mahoe\Desktop\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfo.cs
+C:\Users\mahoe\Desktop\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mahoe\Desktop\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.dll
+C:\Users\mahoe\Desktop\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\refint\BookLibrary.dll
+C:\Users\mahoe\Desktop\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.pdb
+C:\Users\mahoe\Desktop\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\ref\BookLibrary.dll
+C:\Users\mahoe\Desktop\3.Semester\3. Semester OP 1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.deps.json
+C:\Users\mahoe\Desktop\3.Semester\3. Semester OP 1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.dll
+C:\Users\mahoe\Desktop\3.Semester\3. Semester OP 1\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.pdb
+C:\Users\mahoe\Desktop\3.Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.AssemblyReference.cache
+C:\Users\mahoe\Desktop\3.Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahoe\Desktop\3.Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\mahoe\Desktop\3.Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfo.cs
+C:\Users\mahoe\Desktop\3.Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mahoe\Desktop\3.Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.dll
+C:\Users\mahoe\Desktop\3.Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\refint\BookLibrary.dll
+C:\Users\mahoe\Desktop\3.Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.pdb
+C:\Users\mahoe\Desktop\3.Semester\3. Semester OP 1\BookLibrary\BookLibrary\obj\Debug\net6.0\ref\BookLibrary.dll
+C:\Users\mahoe\Desktop\3.Semester\OBL OPG 1 og 2\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.deps.json
+C:\Users\mahoe\Desktop\3.Semester\OBL OPG 1 og 2\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.dll
+C:\Users\mahoe\Desktop\3.Semester\OBL OPG 1 og 2\BookLibrary\BookLibrary\bin\Debug\net6.0\BookLibrary.pdb
+C:\Users\mahoe\Desktop\3.Semester\OBL OPG 1 og 2\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.AssemblyReference.cache
+C:\Users\mahoe\Desktop\3.Semester\OBL OPG 1 og 2\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahoe\Desktop\3.Semester\OBL OPG 1 og 2\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\mahoe\Desktop\3.Semester\OBL OPG 1 og 2\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.AssemblyInfo.cs
+C:\Users\mahoe\Desktop\3.Semester\OBL OPG 1 og 2\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mahoe\Desktop\3.Semester\OBL OPG 1 og 2\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.dll
+C:\Users\mahoe\Desktop\3.Semester\OBL OPG 1 og 2\BookLibrary\BookLibrary\obj\Debug\net6.0\refint\BookLibrary.dll
+C:\Users\mahoe\Desktop\3.Semester\OBL OPG 1 og 2\BookLibrary\BookLibrary\obj\Debug\net6.0\BookLibrary.pdb
+C:\Users\mahoe\Desktop\3.Semester\OBL OPG 1 og 2\BookLibrary\BookLibrary\obj\Debug\net6.0\ref\BookLibrary.dll
